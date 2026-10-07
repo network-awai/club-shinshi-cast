@@ -20,5 +20,16 @@
     "bytes": 117886,
     "sha256": "c4b482e7b8b54332e48193d984e8b4e6ef94ed92dcc9c46e73f88241fbe0e738",
     "model": "awai-network/hokusai"
+  },
+  {
+    "index": 2,
+    "file": "scenes/5bcfd47757b35842bc2ce5447b441f6c7ef1e2a0c99f7efaf7f3de38375aa406.jpg",
+    "createdAt": "2026-10-07T21:04:41Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, シルバー hair, 翠色 eyes, slim figure, cyberpunk neon city, holographic, 近未来ネオン都市, masterpiece, best quality, detailed",
+    "bytes": 134043,
+    "sha256": "5bcfd47757b35842bc2ce5447b441f6c7ef1e2a0c99f7efaf7f3de38375aa406",
+    "model": "awai-network/hokusai"
   }
 ]
