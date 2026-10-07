@@ -9,5 +9,16 @@
     "bytes": 145130,
     "sha256": "ebdbfcf4c09ddb994755229541a87bd36f3a8aad3f1878cfa2ab27c99225a265",
     "model": "awai-network/hokusai"
+  },
+  {
+    "index": 1,
+    "file": "scenes/71b182cbb7c3083067e35b4ca5b10e82413c8d32206cdf7aea03855c716e667c.jpg",
+    "createdAt": "2026-10-07T17:00:37Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, 濡羽色 hair, 琥珀色 eyes, petite figure, japanese traditional, cherry blossom, 和風・桜, masterpiece, best quality, detailed",
+    "bytes": 115752,
+    "sha256": "71b182cbb7c3083067e35b4ca5b10e82413c8d32206cdf7aea03855c716e667c",
+    "model": "awai-network/hokusai"
   }
 ]

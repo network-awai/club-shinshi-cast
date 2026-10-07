@@ -9,5 +9,16 @@
     "bytes": 109731,
     "sha256": "b8687d33d17cd9016489810c096b7094717bcd49ecb4e06046e9de197ff2c888",
     "model": "awai-network/hokusai"
+  },
+  {
+    "index": 1,
+    "file": "scenes/f690e3eb01e7a9011b53a3b1c6d23dc848315077926d6796da7fb954705ab5ca.jpg",
+    "createdAt": "2026-10-07T17:01:26Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, 漆黒 hair, 赤みがかった茶 eyes, slim figure, gothic lolita, dark elegant, ゴシック, masterpiece, best quality, detailed",
+    "bytes": 93280,
+    "sha256": "f690e3eb01e7a9011b53a3b1c6d23dc848315077926d6796da7fb954705ab5ca",
+    "model": "awai-network/hokusai"
   }
 ]
