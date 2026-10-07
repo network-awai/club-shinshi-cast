@@ -9,5 +9,16 @@
     "bytes": 77680,
     "sha256": "841f85f0ed0248b4b0426a45dbb825a77b0c6e43c4ab1997e1580d8e4519f2b8",
     "model": "awai-network/hokusai"
+  },
+  {
+    "index": 1,
+    "file": "scenes/1aa141632d52fddb950b8db8df8219fc4c3018f6c8321f4a32bd090ea4441e98.jpg",
+    "createdAt": "2026-10-07T15:02:44Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, アッシュ hair, 紫がかった黒 eyes, curvy figure, summer seaside, warm sunlight, 夏の海辺, masterpiece, best quality, detailed",
+    "bytes": 94316,
+    "sha256": "1aa141632d52fddb950b8db8df8219fc4c3018f6c8321f4a32bd090ea4441e98",
+    "model": "awai-network/hokusai"
   }
 ]
