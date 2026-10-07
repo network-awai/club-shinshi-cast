@@ -9,5 +9,16 @@
     "bytes": 125022,
     "sha256": "d0e0e7135f0c400569c633a56fbad4a3aed9261080e82f02686e7a389dfbc9fc",
     "model": "awai-network/hokusai"
+  },
+  {
+    "index": 1,
+    "file": "scenes/0af30f574d4148f1f20fbea4657828484b81aaeebf9cfdc641a2a8933675ffe7.jpg",
+    "createdAt": "2026-10-07T13:03:02Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, 翠緑 hair, 灰青 eyes, curvy figure, fantasy, ethereal, magical light, ファンタジー異世界, masterpiece, best quality, detailed",
+    "bytes": 56086,
+    "sha256": "0af30f574d4148f1f20fbea4657828484b81aaeebf9cfdc641a2a8933675ffe7",
+    "model": "awai-network/hokusai"
   }
 ]
