@@ -1,0 +1,13 @@
+[
+  {
+    "index": 0,
+    "file": "scenes/7716e9308e03abcb2449d4f5eb329f61ad4d337d02f61f9c5f09e664b51cc25b.jpg",
+    "createdAt": "2026-10-07T07:51:12Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, 金髪 hair, 琥珀色 eyes, tall-elegant figure, idol stage, sparkle, colorful, アイドルステージ, masterpiece, best quality, detailed",
+    "bytes": 149319,
+    "sha256": "7716e9308e03abcb2449d4f5eb329f61ad4d337d02f61f9c5f09e664b51cc25b",
+    "model": "awai-network/hokusai"
+  }
+]
