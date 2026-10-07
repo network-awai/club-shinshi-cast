@@ -1,0 +1,13 @@
+[
+  {
+    "index": 0,
+    "file": "scenes/d13d6437c11cc7e1d5bd253b4cf830fa84e234268668d8746ed5ad6f7829c7a7.jpg",
+    "createdAt": "2026-10-07T12:19:37Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, 黒髪結び hair, 金色 eyes, curvy figure, athletic, sporty, gym, スポーツジム, masterpiece, best quality, detailed",
+    "bytes": 99877,
+    "sha256": "d13d6437c11cc7e1d5bd253b4cf830fa84e234268668d8746ed5ad6f7829c7a7",
+    "model": "awai-network/hokusai"
+  }
+]
