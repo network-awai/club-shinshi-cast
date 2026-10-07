@@ -1,0 +1,13 @@
+[
+  {
+    "index": 0,
+    "file": "scenes/d8816eac3a6a1a958417d45e4a1b938d5a9535605d3ad700310d45669c28326a.jpg",
+    "createdAt": "2026-10-07T08:02:01Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, 黒髪ウェーブ hair, 金色 eyes, petite figure, noir bar, dim moody light, 大人のバー, masterpiece, best quality, detailed",
+    "bytes": 79195,
+    "sha256": "d8816eac3a6a1a958417d45e4a1b938d5a9535605d3ad700310d45669c28326a",
+    "model": "awai-network/hokusai"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "index": 0,
+    "file": "scenes/1293bfff762fb450fe29c0b4355c2df8b2535484ddc9ca16b98c111f952817b8.jpg",
+    "createdAt": "2026-10-07T08:01:14Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, ダークブラウン hair, 赤みがかった茶 eyes, athletic figure, winter resort, snow, cozy knit, 冬の雪山リゾート, masterpiece, best quality, detailed",
+    "bytes": 124414,
+    "sha256": "1293bfff762fb450fe29c0b4355c2df8b2535484ddc9ca16b98c111f952817b8",
+    "model": "awai-network/hokusai"
+  }
+]
