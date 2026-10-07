@@ -20,5 +20,16 @@
     "bytes": 92615,
     "sha256": "4b39733e3cac862258906ba5ddc060e1924871fdf3f425d83bd6f66ffe6fa7de",
     "model": "awai-network/hokusai"
+  },
+  {
+    "index": 2,
+    "file": "scenes/3c6a3ebffd7f355dfb3b9802e9c93985263bbf5f64d2f94507b79f7e0176b8a6.jpg",
+    "createdAt": "2026-10-07T22:04:35Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, アッシュブラウン hair, 灰青 eyes, athletic figure, office lady, evening city, オフィス街の夜, masterpiece, best quality, detailed",
+    "bytes": 72917,
+    "sha256": "3c6a3ebffd7f355dfb3b9802e9c93985263bbf5f64d2f94507b79f7e0176b8a6",
+    "model": "awai-network/hokusai"
   }
 ]

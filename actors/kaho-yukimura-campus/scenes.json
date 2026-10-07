@@ -20,5 +20,16 @@
     "bytes": 91703,
     "sha256": "59e306bbae0f24f21c9322f51f025b8cd97f58e6f7a6e0604ad1c62c99a30def",
     "model": "awai-network/hokusai"
+  },
+  {
+    "index": 2,
+    "file": "scenes/dc1f92c0db38cf4322af1a62a2cb2575210802cdbfcc5b484c3e8a22bc82c252.jpg",
+    "createdAt": "2026-10-07T22:04:16Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, 黒髪ボブ hair, 深い青 eyes, tall-elegant figure, university campus, casual, 大学キャンパス, masterpiece, best quality, detailed",
+    "bytes": 99203,
+    "sha256": "dc1f92c0db38cf4322af1a62a2cb2575210802cdbfcc5b484c3e8a22bc82c252",
+    "model": "awai-network/hokusai"
   }
 ]
