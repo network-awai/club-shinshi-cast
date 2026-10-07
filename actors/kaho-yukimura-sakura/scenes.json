@@ -1,0 +1,13 @@
+[
+  {
+    "index": 0,
+    "file": "scenes/ebdbfcf4c09ddb994755229541a87bd36f3a8aad3f1878cfa2ab27c99225a265.jpg",
+    "createdAt": "2026-10-07T11:03:14Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, 濡羽色 hair, 琥珀色 eyes, petite figure, japanese traditional, cherry blossom, 和風・桜, masterpiece, best quality, detailed",
+    "bytes": 145130,
+    "sha256": "ebdbfcf4c09ddb994755229541a87bd36f3a8aad3f1878cfa2ab27c99225a265",
+    "model": "awai-network/hokusai"
+  }
+]
