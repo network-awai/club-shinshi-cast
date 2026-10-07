@@ -1,0 +1,13 @@
+[
+  {
+    "index": 0,
+    "file": "scenes/3d35c690d24957876f228a4e411871e84c8ec12ddb773e66aeef94fc8d961342.jpg",
+    "createdAt": "2026-10-07T09:02:31Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, シルバー hair, 翠色 eyes, slim figure, cyberpunk neon city, holographic, 近未来ネオン都市, masterpiece, best quality, detailed",
+    "bytes": 119823,
+    "sha256": "3d35c690d24957876f228a4e411871e84c8ec12ddb773e66aeef94fc8d961342",
+    "model": "awai-network/hokusai"
+  }
+]
