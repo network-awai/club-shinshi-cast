@@ -9,5 +9,16 @@
     "bytes": 124414,
     "sha256": "1293bfff762fb450fe29c0b4355c2df8b2535484ddc9ca16b98c111f952817b8",
     "model": "awai-network/hokusai"
+  },
+  {
+    "index": 1,
+    "file": "scenes/77c58e8142121cad26cae34e84cd08095fbb668e29893b93ae02a825ede9885d.jpg",
+    "createdAt": "2026-10-07T14:04:49Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, ダークブラウン hair, 赤みがかった茶 eyes, athletic figure, winter resort, snow, cozy knit, 冬の雪山リゾート, masterpiece, best quality, detailed",
+    "bytes": 105075,
+    "sha256": "77c58e8142121cad26cae34e84cd08095fbb668e29893b93ae02a825ede9885d",
+    "model": "awai-network/hokusai"
   }
 ]
