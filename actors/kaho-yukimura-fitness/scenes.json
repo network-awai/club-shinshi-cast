@@ -20,5 +20,16 @@
     "bytes": 94127,
     "sha256": "f6bf82889ed758bce51a6d196564683b408a8117fb572cb62957fae9793adb64",
     "model": "awai-network/hokusai"
+  },
+  {
+    "index": 2,
+    "file": "scenes/c9865b2f70795f0438c4001ec6d1e9963317ec32c5613153f2ae07d9e18a8b75.jpg",
+    "createdAt": "2026-10-08T00:01:56Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, 黒髪結び hair, 金色 eyes, curvy figure, athletic, sporty, gym, スポーツジム, masterpiece, best quality, detailed",
+    "bytes": 102389,
+    "sha256": "c9865b2f70795f0438c4001ec6d1e9963317ec32c5613153f2ae07d9e18a8b75",
+    "model": "awai-network/hokusai"
   }
 ]

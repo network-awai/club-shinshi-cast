@@ -20,5 +20,16 @@
     "bytes": 106786,
     "sha256": "eb93c9290d4a37ed996067aa0f8918949a33f2b4da57a3b494d19761afae85de",
     "model": "awai-network/hokusai"
+  },
+  {
+    "index": 2,
+    "file": "scenes/ac46aeb07f2176e3e015201467d1e6c211988ff4c8585cd1cb460c9e0f043b73.jpg",
+    "createdAt": "2026-10-08T00:03:11Z",
+    "mime": "image/jpeg",
+    "size": "512x768",
+    "prompt": "1girl, solo, adult woman, 赤茶 hair, 翠色 eyes, tall-elegant figure, cozy cafe, soft warm light, 隠れ家カフェ, masterpiece, best quality, detailed",
+    "bytes": 110277,
+    "sha256": "ac46aeb07f2176e3e015201467d1e6c211988ff4c8585cd1cb460c9e0f043b73",
+    "model": "awai-network/hokusai"
   }
 ]
